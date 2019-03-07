@@ -1,0 +1,2 @@
+# MinesweeperQt
+Classical Minesweeper game
